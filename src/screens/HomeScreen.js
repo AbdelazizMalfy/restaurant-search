@@ -16,6 +16,10 @@ const HomeScreen = (props) => {
         title='Go To List Demo' 
         onPress={() => navigate('List') }
       />
+      <Button 
+        title='Go To Image Demo' 
+        onPress={() => navigate('Image') }
+      />
     </View>
     )
 };
