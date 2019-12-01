@@ -7,7 +7,7 @@ const ComponentsScreen = () => {
         <View>
             <Text style={styles.textStyle}> This is the components screen </Text>
             <Text style={styles.sectextStyle}>Abdelaziz</Text>
-            <Button title='LOVE' color='red'></Button>
+            <Button title='LOVE'></Button>
             <Text style={styles.subtextStyle}>Huda</Text>
         </View>
     )
